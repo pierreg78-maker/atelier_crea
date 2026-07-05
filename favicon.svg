@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Fond -->
+  <rect width="100" height="100" rx="20" fill="#e67e22"/>
+  
+  <!-- Forme créative (étoile et trait) -->
+  <path d="M50 15 L60 40 L85 40 L65 55 L75 80 L50 65 L25 80 L35 55 L15 40 L40 40 Z" fill="#ffffff"/>
+</svg>
